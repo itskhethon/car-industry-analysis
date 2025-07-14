@@ -24,5 +24,5 @@ This project analyzes a historical car dataset using Python. It extracts insight
 
 ## Author
 **Khethukuthula Ngcobo**
-BSc Chemical Engineering  
+
 [GitHub Profile](https://github.com/itskhethon)
